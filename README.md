@@ -1,1 +1,1 @@
-# GungunoTest
+# Gungunoo_iOS
